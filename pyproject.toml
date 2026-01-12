@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dev-flex"
-version = "0.1.0"
+version = "0.1.1"
 description = "A cyberpunk-themed CLI dashboard for developers."
 authors = [{name = "HuyLe0913", email = "huyphongtung@gmail.com"}]
 readme = "README.md"
