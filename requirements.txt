@@ -1,0 +1,6 @@
+rich==14.1.0
+distro==1.9.0
+psutil==7.1.0
+typer==0.21.1
+speedtest-cli==2.1.3
+

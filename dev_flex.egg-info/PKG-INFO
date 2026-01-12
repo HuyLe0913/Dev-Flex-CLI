@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: dev-flex
+Version: 0.1.0
+Summary: A cyberpunk-themed CLI dashboard for developers.
+Author-email: Antigravity <antigravity@deepmind.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rich
+Requires-Dist: distro
+Requires-Dist: psutil
+Requires-Dist: typer
+Requires-Dist: speedtest-cli
+Dynamic: license-file
+
+# Dev-Flex-CLI

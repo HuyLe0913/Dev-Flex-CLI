@@ -1,0 +1,5 @@
+rich
+distro
+psutil
+typer
+speedtest-cli
